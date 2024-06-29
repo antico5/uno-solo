@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uno-solo/static/css/main.f6cfa97e.css",
+    "main.js": "/uno-solo/static/js/main.1180ca78.js",
+    "static/js/453.b14552c5.chunk.js": "/uno-solo/static/js/453.b14552c5.chunk.js",
+    "index.html": "/uno-solo/index.html",
+    "main.f6cfa97e.css.map": "/uno-solo/static/css/main.f6cfa97e.css.map",
+    "main.1180ca78.js.map": "/uno-solo/static/js/main.1180ca78.js.map",
+    "453.b14552c5.chunk.js.map": "/uno-solo/static/js/453.b14552c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6cfa97e.css",
+    "static/js/main.1180ca78.js"
+  ]
+}
